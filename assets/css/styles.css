@@ -161,7 +161,9 @@
   
 .nav__link:hover {
     background-color: var(--black-color-light);
+    color: rgb(172, 100, 231);
 }
+
 
 /* Show menu */
 .show-menu {
@@ -212,6 +214,7 @@
 .dropdown__link:hover, 
 .dropdown__sublink:hover {
     background-color: var(--black-color);
+    color: rgb(172, 100, 231);
 }
   
 .dropdown__menu, 
